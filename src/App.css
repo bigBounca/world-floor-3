@@ -3,12 +3,18 @@
 }
 
 .App-logo {
+  position: relative;
+  top: -50px;
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
 }
 
 .App-header {
   background-color: #282c34;
+  background-image: url("ireland.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 110%;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -20,6 +26,12 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.War-text {
+  position: relative;
+  top: 20px;
+  color: black;
 }
 
 @keyframes App-logo-spin {
