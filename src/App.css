@@ -24,6 +24,12 @@
   color: white;
 }
 
+@media(max-width: 800px) {
+  .App-header {
+    background-repeat: repeat
+  }
+}
+
 .App-link {
   color: #61dafb;
 }

@@ -12,7 +12,7 @@ class App extends Component {
             <p>
               Eat-aly my ass
             </p>
-            <p>Ireland RULES!!!</p>
+            <p>Ireland RULES!!</p>
           </div>
         </header>
       </div>
